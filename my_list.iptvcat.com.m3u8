@@ -1,93 +1,17 @@
 #EXTM3U
-#EXTINF:0 tvg-country="HR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="News",N1 HRVATSKA
-https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",A&E CA
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6419/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",A&E
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/1108/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AMC US
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/1083/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 1 HD (HR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SD5YeVHnWEm7dfRkporL1dU/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 2 HD (HR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SC3coHRuanEjN2irkPwGsBU/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 3 HD (HR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLkWvBuGE1yOFvt-nrIXnkY/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 4 HD (HR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFHrUm0v1AE1etzsLTBTePo/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 10 HR
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/arena.sport.10.hr.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 2
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/arena.sport.2.rs.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 2 HD HR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7330/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 2 HR
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/arena.sport.2.hr.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 3 FHD HR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7265/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 3 HD HR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7331/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 4 HD HR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7332/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 4 HR
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/arena.sport.4.hr.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 5 FHD HR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7267/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 5 HD HR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7333/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 5 HR
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/arena.sport.5.hr.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 6 FHD HR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7268/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 6 HD HR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7334/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 6 HR
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/arena.sport.6.hr.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 7 HR
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/arena.sport.7.hr.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 8 HR
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/arena.sport.8.hr.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 9 HR
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/arena.sport.9.hr.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",CBC Toronto CA
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6497/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",CBC Toronto HD CA
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6513/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",CMT Canada CA
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6448/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",CNBC Canada CA
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6482/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",CNN CA
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6499/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",CNN HD CA
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6538/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",CP 24 CA
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6501/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",CTV Toronto CA
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6496/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Toronto
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cblt.toronto.on.ca.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CP24
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cp24.cablepulse.24.ca.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CP24 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMGcd1pzvGJzDpgL3OdM_mM/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Showcase HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF1A-jkDrDg_XFam5jHi6I0/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HRT 1 HR
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hrt.1.hr.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HRT 2 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGPLzc-SBsRFpVNa0dvV5dI/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HRT 2 HR
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hrt.2.hr.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HRT 3 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGVKhImT6pJJ_E1o9XQpejg/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HRT 3 HR
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hrt.3.hr.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HRT 4 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDmTqfaCP33y9aqV_ZKXzBE/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HRT 4 HR
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hrt.4.hr.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HRT INT.
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SK5BwSn7WZD3PbHT7ECE8d0/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HRT 1 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAINTIMnf5jnfiRebSeYHyM/ts?checkedby:iptvcat.com
+#EXTINF:-1,(XXX) Adult 
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1,(XXX) Adult 2
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1,(XXX) Adult 3
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1,(XXX) Adult 4
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1,(XXX) Adult 5
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1,(XXX) Adult 6
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1,(XXX) Adult 7
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1,(XXX) Adult 8
+http://cdn.adultiptv.net/interracial.m3u8
